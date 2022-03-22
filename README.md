@@ -1,12 +1,12 @@
 # myprofessional-CV
 
-##Base Template
+## Base Template
 https://github.com/spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex
 
-License
+##License
 MIT
 
-Maintainer
+## Maintainer
 Lino Garda Denaro (https://github.com/dlinogarda), website: www.dlinogarda.com
-Compiling
+## Compiling
 Compiler: Xelatex Run the script in the terminal
