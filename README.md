@@ -3,7 +3,7 @@
 ## Base Template
 https://github.com/spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex
 
-##License
+## License
 MIT
 
 ## Maintainer
