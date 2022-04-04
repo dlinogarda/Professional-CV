@@ -214,7 +214,7 @@
         % CV mail-2
         \ifthenelse{\equal{\givencvmaill}{}}{}{\href{mailto:\givencvmaill}{\textsc{\Large\icon{\faIcon[regular]{envelope}}}} & \href{mailto:\givencvmaill}{\textcolor{cerulean}\givencvmaill}\\}
         % CV site
-        \ifthenelse{\equal{\givencvsite}{}}{}{\href{\givencvsite}{\textsc{\Large\icon{\faGlobe}}} & \href{\givencvsite}{\textcolor{cerulean}\givencvsite}\\}
+        \ifthenelse{\equal{\givencvsite}{}}{}{\href{https://dlinogarda.com/}{\textsc{\Large\icon{\faGlobe}}} & \href{https://dlinogarda.com/}{\textcolor{cerulean}\givencvsite}\\}
         % CV GitHub
         \ifthenelse{\equal{\givencvgithub}{}}{}{\href{\givencvgithub}{\textsc{\Large\icon{\faGithub}}} & \href{\givencvgithub}{\textcolor{cerulean}\givencvgithub}\\}
         % CV ORC-ID
