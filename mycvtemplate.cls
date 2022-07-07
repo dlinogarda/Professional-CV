@@ -238,7 +238,7 @@
       \noindent
       \scriptsize
       \noindent
-      [Last updated on: 20th March, 2022]
+      [Last updated on: 07th July, 2022]
 
     \end{flushleft}
   \end{textblock}
