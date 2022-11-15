@@ -214,13 +214,13 @@
         % CV mail-2
         \ifthenelse{\equal{\givencvmaill}{}}{}{\href{mailto:\givencvmaill}{\textsc{\Large\icon{\faIcon[regular]{envelope}}}} & \href{mailto:\givencvmaill}{\textcolor{cerulean}\givencvmaill}\\}
         % CV site
-        \ifthenelse{\equal{\givencvsite}{}}{}{\href{https://dlinogarda.com/}{\textsc{\Large\icon{\faGlobe}}} & \href{https://dlinogarda.com/}{\textcolor{cerulean}\givencvsite}\\}
+        \ifthenelse{\equal{\givencvsite}{}}{}{\href{https://dlinogarda.github.io/}{\textsc{\Large\icon{\faGlobe}}} & \href{https://dlinogarda.github.io/}{\textcolor{cerulean}\givencvsite}\\}
         % CV GitHub
         \ifthenelse{\equal{\givencvgithub}{}}{}{\href{\givencvgithub}{\textsc{\Large\icon{\faGithub}}} & \href{\givencvgithub}{\textcolor{cerulean}\givencvgithub}\\}
         % CV ORC-ID
         \ifthenelse{\equal{\givencvorcid}{}}{}{\href{https://orcid.org/0000-0001-5367-5392}{\textsc{\Large\icon{\faOrcid}}} & \href{https://orcid.org/0000-0001-5367-5392}{\textcolor{cerulean}\givencvorcid}\\}
         % CV Publons
-        \ifthenelse{\equal{\givencvpublons}{}}{}{\href{https://publons.com/researcher/3605803/lino-garda-denaro/}{\textsc{\Large\icon{\faPinterest}}} & \href{https://publons.com/researcher/3605803/lino-garda-denaro/}{\textcolor{cerulean}\givencvpublons}\\}
+        \ifthenelse{\equal{\givencvpublons}{}}{}{\href{https://www.webofscience.com/wos/author/rid/AAM-9080-2020}{\textsc{\Large\icon{\faPinterest}}} & \href{https://www.webofscience.com/wos/author/rid/AAM-9080-2020}{\textcolor{cerulean}\givencvpublons}\\}
         % RG
         \ifthenelse{\equal{\givencvrg}{}}{}{\href{https://www.researchgate.net/profile/Lino-Denaro}{\textsc{\Large\icon{\faResearchgate}}} & \href{https://www.researchgate.net/profile/Lino-Denaro}{\textcolor{cerulean}\givencvrg}\\}
         % CV Linked-In
